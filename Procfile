@@ -1,0 +1,1 @@
+web: yarn compile && cd target && yarn start
