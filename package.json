@@ -36,5 +36,8 @@
     "typeorm": "0.1.19",
     "typescript": "^2.7.2"
   },
+  "resolutions": {
+    "mem": "4.0.0"
+  },
   "license": "MIT"
 }
